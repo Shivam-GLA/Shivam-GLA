@@ -53,8 +53,8 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 # 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul1582&theme=calm-pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Rahul1582&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-GLA&theme=calm-pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shivam-GLA&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul1582&theme=discord&no-frame=false&no-bg=false&margin-w=4)
