@@ -11,7 +11,7 @@
 
 <br>
 
-💻 &nbsp;Working as a Software Development Engineer - 1 at Truminds Software Systems.
+💻 &nbsp;Working as a Frontend Development Engineer - 1 at Truminds Software Systems.
 
 👯 I’m looking to collaborate on **Open Source Projects using JavaScript, Typescript**.   
 
